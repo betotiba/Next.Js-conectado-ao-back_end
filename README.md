@@ -11,6 +11,10 @@ Entenda que nosso servidor node vai rodar na porta 8080 = localhost:8080 que rep
 
 ![image](https://user-images.githubusercontent.com/26930314/170370031-ae0411a6-2726-4798-96a3-62a7daec009e.png)
 
+Criando o fetch(){}
+
+![image](https://user-images.githubusercontent.com/26930314/170370332-6af23c42-dd11-4a3b-a26b-389f1ac73831.png)
+
  
 Portanto é necessario entender que deve jhaver um banco de dados conectado para guardar e pesquisar as informações.
 
